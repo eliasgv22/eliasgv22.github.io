@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Sorts Mill Goudy', serif;
+}
+body{
+    background-image: url(vvs.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header button{
+    padding: 0% 5px;
+    width: 140px;
+    outline: none;
+    border: 0;
+    height: 40px;
+    font-weight: 500;
+    background-color: aliceblue;
+    transition: widht 0,5s;
+    cursor: pointer;
+    border-radius: 20px;
+    color: black;
+}
+header button:hover{
+    justify-content: space-between;
+    align-items: center;
+    width: 160px;
+}
